@@ -1,0 +1,6 @@
+  spring:
+    application:
+      name: lesson08
+  server:
+    port: 8080
+
